@@ -3,6 +3,12 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Epicalable/JARVIS-GUI) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/Epicalable/JARVIS-GUI) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Epicalable/JARVIS-GUI/issues)
 
+Please consider donating some money to our organization to help fund this project:  
+
+<a href="https://buymeacoffee.com/mahadhevha" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30"/>
+</a>
+
 ![Image](https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab)
 
 Kindly consider starring this repository if you like the program :-)
@@ -34,12 +40,20 @@ Pre-Trained Data is saved in the jardata.pth and user's API keys are stored in j
 Jarintents is the original dataset that the current model is trained against, response to user's inputs are retrieved from this file.
 
 
+## Support Us
+Please consider donating some money to our organization to help fund this project:  
+
+<a href="https://buymeacoffee.com/mahadhevha" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="30"/>
+</a>
+
+
 ## License  
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Epicalable/)  
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Temavrix/)  
 
 IMPORTANT NOTE: Any User who are willing to Share or Re-Distribute JARVIS are kindly advised to:
 
-1. A reference to us by keeping a "(C) Epicalable" text in the 'Modified program' such as keeping it in the settings menu, about or help page.
+1. A reference to us by keeping a "(C) Temavrix" text in the 'Modified program' such as keeping it in the settings menu, about or help page.
 
 2. A link to this repository from the user's 'Modified program' README file. 
 
@@ -48,6 +62,6 @@ Please also refer to LICENSE file for clarifications.
 Thank you for your kind cooperation :-)
 
 
-Version 2.0  
-J.A.R.V.I.S (C) Epicalable 2025  
+Version 2.1  
+J.A.R.V.I.S Copyright (C) Temavrix 2026
 All Rights Reserved.

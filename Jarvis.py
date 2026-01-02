@@ -240,7 +240,7 @@ def jarsearch(sentence):
 def retrieve_input():
     inputValue=myentry.get("1.0","end-1c")
     textbox.configure(state="normal")
-    textbox.insert(tk.END,"User: " + inputValue.capitalize())
+    textbox.insert(tk.END,"User: " + inputValue.capitalize()+"\n")
     textbox.configure(state="disabled")
     myentry.delete('1.0', END)
     inputValue = inputValue.lower()
